@@ -16,7 +16,10 @@ coding | .NET | C# | ASP.NET
 ⚡ Fun fact: I love learning new tech every day!
 
 Connect with me:
+
 Facebook: https://www.facebook.com/profile.php?id=100014286067339&mibextid=ZbWKwL
+
 Instagram: https://www.instagram.com/syed_hasan_05?igsh=MWx6djE4eG1lNDhi
+
 LinkedIn: https://www.linkedin.com/in/syed-hasan-akhtar-aa17b7264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
