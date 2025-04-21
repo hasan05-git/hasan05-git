@@ -17,7 +17,7 @@ coding | .NET | C# | ASP.NET
 
 Connect with me:
 
-Facebook: https://www.facebook.com/profile.php?id=100014286067339&mibextid=ZbWKwL
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" alt="Facebook" width="24" height="24">  Facebook: https://www.facebook.com/profile.php?id=100014286067339&mibextid=ZbWKwL
 
 Instagram: https://www.instagram.com/syed_hasan_05?igsh=MWx6djE4eG1lNDhi
 
