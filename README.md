@@ -17,9 +17,23 @@ coding | .NET | C# | ASP.NET
 
 Connect with me:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" alt="Facebook" width="24" height="24">  Facebook: https://www.facebook.com/profile.php?id=100014286067339&mibextid=ZbWKwL
+<a href="https://www.facebook.com/profile.php?id=100014286067339&mibextid=ZbWKwL" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" alt="Facebook" width="24" height="24">
+</a>
+Facebook: https://www.facebook.com/profile.php?id=100014286067339&mibextid=ZbWKwL
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="24" height="24"> Instagram: https://www.instagram.com/syed_hasan_05?igsh=MWx6djE4eG1lNDhi
+<br>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="24" height="24"> LinkedIn: https://www.linkedin.com/in/syed-hasan-akhtar-aa17b7264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+<a href="https://www.instagram.com/syed_hasan_05?igsh=MWx6djE4eG1lNDhi" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="24" height="24">
+</a>
+Instagram: https://www.instagram.com/syed_hasan_05?igsh=MWx6djE4eG1lNDhi
+
+<br>
+
+<a href="https://www.linkedin.com/in/syed-hasan-akhtar-aa17b7264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="24" height="24">
+</a>
+LinkedIn: https://www.linkedin.com/in/syed-hasan-akhtar-aa17b7264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
 
